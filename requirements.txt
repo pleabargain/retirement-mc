@@ -1,5 +1,6 @@
 numpy>=1, <2
 IPython>=6, <7
+uncertainties>= 3.0.2, <4
 nbconvert>=5.3, <5.4
 traitlets>=4.3, <4.4
 bqplot>=0.10, <0.11
