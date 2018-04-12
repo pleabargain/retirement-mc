@@ -1,5 +1,7 @@
 # Monte Carlo simulations for retirement
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pleabargain/retirement-mc/master)
+
 This software provides a convenient means to perform
 a Monte Carlo simulation on the question of whether 
 savings for retirement will actually last through 
