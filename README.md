@@ -14,9 +14,6 @@ returns on investment, and use life tables to estimate life
 expectancy. Inflation is also accounted for by increasing the
 yearly expenses by the rate of inflation.
 
-An IPython notebook with an introductory example can be viewed on 
-[nbviewer](http://nbviewer.ipython.org/github/jhykes/retirement-mc/blob/master/retirement_mc.ipynb).
-
 ## Dependencies
 
    * matplotlib
@@ -25,6 +22,8 @@ An IPython notebook with an introductory example can be viewed on
    * pandas
    * uncertainties
    * xlrd
+   
+   see the requirements.txt
 
 ## License
 
